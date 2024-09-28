@@ -34,5 +34,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-<p style="text-align:center;font-size:20px;">Code is like jokes. If you have to explain it, it's not as good.</p>
-<center> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3QxaDM1cm5mbTVmeHBzbmlqYWIzdndrbjV4eHRheDE0NWR2YWR5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.webp" width="250">
+<div align="center">
+  <p style="font-size:20px;">Code is like jokes. If you have to explain it, it's not as good.</p>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3QxaDM1cm5mbTVmeHBzbmlqYWIzdndrbjV4eHRheDE0NWR2YWR5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.webp" width="250">
+</div>
